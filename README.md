@@ -25,7 +25,7 @@ My work spans projects at the **intersection of technology and the environment**
 
 ### 💡 What Drives Me
 I enjoy **creating tools that merge curiosity, technology, and environmental impact**.  
-I’m always exploring ways to **push systems, data, and devices further** — to build software that improves both **the environment and the people living in it**.
+I’m always exploring ways to **push systems, data, and devices further**, to build software that improves both **the environment and the people living in it**.
 
 ###
 
