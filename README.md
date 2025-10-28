@@ -4,10 +4,10 @@
 
 # 👋 Hello World!
 
-I'm a **Senior Computer Science student at Arizona State University** with **10+ months of professional software development experience** across two internships.  
-I’m driven by a deep curiosity to understand how systems work at a fundamental level — I love **testing, experimenting, and exploring**, which naturally led me to a passion for **science, engineering, and software development**.
+I'm a **Senior Computer Science student at Arizona State University** with **10+ months of professional software development experience** across two internships working closely with lead engineers on **distributed clouds systems**.  
+I’m inherently driven by a deep curiosity to understand how systems work at a fundamental level. I love **testing, experimenting, and exploring**, which naturally led me to a passion for **science, engineering, and software development**.
 
-I aim to **leverage the skills** I’ve gained at ASU to **solve real-world problems** through thoughtful, data-driven, and systems-oriented solutions.
+I aim to **leverage the skills** I’ve gained at ASU to **solve real-world problems** through thoughtful, data-driven, and systems oriented solutions.
 
 ---
 
@@ -17,7 +17,10 @@ My work spans projects at the **intersection of technology and the environment**
 - 🔥 **Wildfire Prediction Models** — applying **machine learning** to forecast fire risks.  
 - 🌆 **Urban Heat Island Visualizations** — using **MODIS satellite data** to understand climate impacts in cities.  
 - 📱 **iOS Field-Data Apps** — gamified tools that help users **track endangered and invasive species**, leveraging **camera, GPS, and wireless connectivity** in modern devices.
-
+- 💧 **IoT Water Management Systems (Axis Meter Solutions)** — developing an **IoT mesh network using AWS and AWS IoT Core** to monitor and optimize water usage.  
+  This system provides **real-time submetering**, detects **leaks (especially from toilets, which cause ~80% of water losses)**, and helps both utilities and businesses **reduce waste, energy consumption, and environmental impact**.  
+  **Water saved is water that doesn’t need to be pumped or reprocessed** — saving money, extending equipment life, and conserving a critical resource.
+  
 ---
 
 ### 💡 What Drives Me
