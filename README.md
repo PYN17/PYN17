@@ -4,22 +4,25 @@
 
 # 👋 Hello World!
 
-<p align="left">
-I'm a **senior Computer Science student at Arizona State University**, driven by a deep curiosity to understand how systems work at a fundamental level. I love **testing, experimenting, and exploring** — this curiosity naturally led me to a passion for **science, engineering, and software development**.
-<br><br>
-I aim to **leverage the skills** I've gained at ASU to **solve real-world problems** through thoughtful, data-driven, and systems-oriented solutions.
-<br><br>
+I'm a **Senior Computer Science student at Arizona State University** with **10+ months of professional software development experience** across two internships.  
+I’m driven by a deep curiosity to understand how systems work at a fundamental level — I love **testing, experimenting, and exploring**, which naturally led me to a passion for **science, engineering, and software development**.
+
+I aim to **leverage the skills** I’ve gained at ASU to **solve real-world problems** through thoughtful, data-driven, and systems-oriented solutions.
+
+---
+
+### 🌎 Areas of Focus
 My work spans projects at the **intersection of technology and the environment**, including:
-</p>
 
 - 🔥 **Wildfire Prediction Models** — applying **machine learning** to forecast fire risks.  
-- 🌆 **Urban Heat Island Visualizations** — using **data analysis and geospatial mapping** to understand climate impacts in cities.  
-- 📱 **iOS Field-Data Apps** — gamified tools that help users **track endangered and invasive species**, leveraging the **camera, GPS, and wireless connectivity** built into modern devices.
+- 🌆 **Urban Heat Island Visualizations** — using **MODIS satellite data** to understand climate impacts in cities.  
+- 📱 **iOS Field-Data Apps** — gamified tools that help users **track endangered and invasive species**, leveraging **camera, GPS, and wireless connectivity** in modern devices.
 
-<p align="left">
-I enjoy **creating tools that merge curiosity, technology, and environmental impact**. I’m always exploring ways to **push systems, data, and devices further** — to build software that makes both **the environment and the people living in it** better.
-</p>
+---
 
+### 💡 What Drives Me
+I enjoy **creating tools that merge curiosity, technology, and environmental impact**.  
+I’m always exploring ways to **push systems, data, and devices further** — to build software that improves both **the environment and the people living in it**.
 
 ###
 
