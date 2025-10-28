@@ -1,3 +1,5 @@
+<!-- omit in toc -->
+
 <br clear="both">
 
 <p align="left">Hello World! 👋<br><br>I'm a senior Computer Science student at Arizona State University, driven by a deep curiosity to understand how systems work at a fundamental level. I love testing, experimenting, and exploring, this curiosity naturally led me to a passion for science, engineering, and software development.  <br><br>I aim to leverage the skills I've gained in university to solve real-world problems. My work spans projects at the intersection of technology and the environment, including:  <br><br>- Wildfire prediction models using machine learning.  <br>- Urban Heat Island visualizations to understand climate impacts in cities.  <br>- iOS field-data apps that help track endangered or invasive species through a gamified, Pokemon like interface, and the camera, GPS, and wireless connectivity in everyone's pocket.<br><br>I enjoy creating tools that combine curiosity, technology, and real-world impact, and I’m always exploring ways to push systems, data, and devices further to better the environment and the people living in it.</p>
