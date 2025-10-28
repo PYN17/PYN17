@@ -2,7 +2,24 @@
 
 <br clear="both">
 
-<p align="left">Hello World! 👋<br><br>I'm a senior Computer Science student at Arizona State University, driven by a deep curiosity to understand how systems work at a fundamental level. I love testing, experimenting, and exploring, this curiosity naturally led me to a passion for science, engineering, and software development.  <br><br>I aim to leverage the skills I've gained in university to solve real-world problems. My work spans projects at the intersection of technology and the environment, including:  <br><br>- Wildfire prediction models using machine learning.  <br>- Urban Heat Island visualizations to understand climate impacts in cities.  <br>- iOS field-data apps that help track endangered or invasive species through a gamified, Pokemon like interface, and the camera, GPS, and wireless connectivity in everyone's pocket.<br><br>I enjoy creating tools that combine curiosity, technology, and real-world impact, and I’m always exploring ways to push systems, data, and devices further to better the environment and the people living in it.</p>
+# 👋 Hello World!
+
+<p align="left">
+I'm a **senior Computer Science student at Arizona State University**, driven by a deep curiosity to understand how systems work at a fundamental level. I love **testing, experimenting, and exploring** — this curiosity naturally led me to a passion for **science, engineering, and software development**.
+<br><br>
+I aim to **leverage the skills** I've gained at ASU to **solve real-world problems** through thoughtful, data-driven, and systems-oriented solutions.
+<br><br>
+My work spans projects at the **intersection of technology and the environment**, including:
+</p>
+
+- 🔥 **Wildfire Prediction Models** — applying **machine learning** to forecast fire risks.  
+- 🌆 **Urban Heat Island Visualizations** — using **data analysis and geospatial mapping** to understand climate impacts in cities.  
+- 📱 **iOS Field-Data Apps** — gamified tools that help users **track endangered and invasive species**, leveraging the **camera, GPS, and wireless connectivity** built into modern devices.
+
+<p align="left">
+I enjoy **creating tools that merge curiosity, technology, and environmental impact**. I’m always exploring ways to **push systems, data, and devices further** — to build software that makes both **the environment and the people living in it** better.
+</p>
+
 
 ###
 
